@@ -1,0 +1,31 @@
+/* .button {
+  min-width: 260px;
+  min-height: 60px;
+  border: none;
+  background-color: transparent;
+
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+
+  cursor: pointer;
+
+  transition: 0.3s;
+  transition-property: opacity, transform;
+}
+
+.buy-button {
+  background-color: #fc9b27;
+}
+
+.button:hover {
+  opacity: 90%;
+}
+
+.button:active {
+  opacity: 80%;
+} */
